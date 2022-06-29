@@ -2,7 +2,7 @@
 
 from tkinter import *
 import random, string
-
+import pyperclip
 
 
 ###initialize window
